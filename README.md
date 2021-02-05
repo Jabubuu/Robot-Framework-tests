@@ -1,2 +1,2 @@
 # Robot-Framework-tests
-Test automation using Robot Framework
+Test automation and unit tests using Robot Framework
